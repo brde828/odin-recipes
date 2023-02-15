@@ -16,3 +16,8 @@ h1 {
 .recipe_listing {
     list-style: none;
 }
+
+.header_image {
+    width: 500px;
+    height: auto;
+}
